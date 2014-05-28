@@ -1,0 +1,10 @@
+{
+    "name": "iflipd/rncryptor-iflipd",
+    "require": {
+        "php": ">=5.3.2",
+        "rncryptor/rncryptor": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
